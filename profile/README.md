@@ -1,5 +1,8 @@
 ## Glow Space
 
+Web komunity: https://glowspace.cz
+Znalostní báze: https://glowspace.atlassian.net
+
 
 <!--
 
