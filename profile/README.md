@@ -1,6 +1,6 @@
 ## Glow Space
 
-Web komunity: https://glowspace.cz
+Web komunity: https://glowspace.cz<br>
 Znalostní báze: https://glowspace.atlassian.net
 
 
